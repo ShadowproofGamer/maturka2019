@@ -1,0 +1,5 @@
+zad1.   18
+zad2.   [2, 145, 1, 40585]
+zad3.   liczba w tablicy:  150
+        pierwsza liczba:  31968
+        nwd:  74
